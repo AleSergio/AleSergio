@@ -8,7 +8,6 @@
 ## 🌟 Featured Project
 
 ### [AI Chatbot](https://github.com/AleSergio/ai-chatbot)
-> A simple yet powerful AI-powered chatbot.  
 > **Tech Stack:** Next.js, TypeScript, Gemini API
 
 - Conversational AI using modern APIs.
